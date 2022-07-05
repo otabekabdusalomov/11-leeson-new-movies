@@ -4,7 +4,7 @@ const elList = document.querySelector(".list");
 const elInput = document.querySelector(".input");
 
 const API_KEY = "b1566df1";
-let search = "spider-man";
+let search = "wolves";
 let page = 1;
 
 const renderMovies = function (arr, htmlElement) {
