@@ -1,0 +1,14 @@
+.list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.film {
+    padding: 20px;
+    border: 1px solid black;
+}
